@@ -21,5 +21,27 @@
 ### 🧰 Tech Stack (a.k.a. “things I fight with”)
 ```bash
 Python | C | Assembly | Docker | Linux | WinAPI | NASM | Nuitka | PyInstaller
+```
+
+### 🐉 About Draconus
+
+> “A creature born from curiosity, caffeine, and poor life choices.”
+
+**Draconus** is my personal experiment in chaos —  
+a C2 framework that blends ethical hacking, malware research, and pure curiosity.  
+It speaks in sockets, hides behind Wine, and occasionally spawns new worms just for fun.  
+Everything is modular, experimental, and slightly dangerous — just how I like it.
 
 
+
+### ⚔️ Motto
+
+> **“If it compiles, it’s not a bug — it’s a feature.”**  
+> _“And if it doesn’t… well, that’s tomorrow’s problem.”_
+
+---
+
+### ☕ Fun Fact
+
+> Debugging is like being the detective in a crime movie…  
+> where you are also the murderer, the victim, and the guy who deleted the logs.
